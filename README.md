@@ -22,7 +22,7 @@
 
 ## Demo
 ![Zakir POS](public/images/screenshot.jpg)
-**Live Demo:** https://enigmatic-thicket-18156.herokuapp.com
+**Live Demo:** belum tersedia
 
 ## Zakir POS Features
 
